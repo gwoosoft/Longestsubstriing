@@ -13,5 +13,4 @@ Optimal solution to solve this problem is using window sliding techniques.
 | --- |  --- | --- |  --- |
 | Example 1 | s = "abcabcbb" | 3  | The answer is "abc", with the length of 3. |
 | Example 2 | s = "bbbbb" | 1  | The answer is "b", with the length of 1. |
-| Example 3 | s = "pwwkew" | 3 |  The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring. |
+| Example 3 | s = "pwwkew" | 3 |  The answer is "wke", with the length of 3. Notice that the answer must be a substring, "pwke" is a subsequence and not a substring. |
